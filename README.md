@@ -1,3 +1,6 @@
+## Run command for this tool
+node index.js "enter the text" name_of_your_file.extenstion ( png or jpg ).
+
 We made this project using JavaScript Hackathon Project by importing NPM AND CLI Modules
 
 
